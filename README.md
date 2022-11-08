@@ -1,6 +1,6 @@
 # TheInternetChallenges
 
-It's an automation script to test multiple test scenarios on The Internet Herokuapp, demonstrating my skills of finding element locators and interacting with various types of elements such as dropdown menus, checkboxes, text fields, buttons, links, alerts, file uploads, and more.
+An automation script repository to test multiple test scenarios on The Internet Herokuapp, demonstrating my skills of finding element locators and interacting with various types of elements such as dropdown menus, checkboxes, text fields, buttons, links, alerts, file uploads, and more.
 
 # What I Learned
 - Web Automation with Java, Selenium WebDriver, TestNG and Maven.
